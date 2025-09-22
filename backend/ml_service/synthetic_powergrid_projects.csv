@@ -1,0 +1,21 @@
+project_id,project_name,project_type,region,terrain,material_cost,labor_cost,regulatory_time,historical_delay,weather_risk,vendor_reliability,manpower_readiness,demand_supply_factor,predicted_delay,predicted_cost_overrun,fallback_flag,hotspot,approval_status
+1,Project 1,Substation,Himachal,Hilly,72,41,24,11,0.11,0.62,0.71,0.2,7,10.2,TRUE,Terrain,Pending
+2,Project 2,Substation,Kerala,Plains,140,74,47,17,0.94,0.34,0.97,0.92,11,12.8,TRUE,Regulatory,Pending
+3,Project 3,Substation,Himachal,Hilly,145,86,24,25,0.14,0.69,0.81,0.91,17,9.2,FALSE,Weather,Pending
+4,Project 4,Overhead Line,Himachal,Plains,141,78,22,15,0.29,0.88,0.9,0.22,29,5,TRUE,Vendor,Pending
+5,Project 5,Overhead Line,Maharashtra,Coastal,55,91,34,15,0.56,0.76,0.93,0.55,25,6.2,FALSE,Material,Pending
+6,Project 6,Underground Cable,Maharashtra,Coastal,151,64,42,18,0.13,0.12,0.91,0.91,28,13.5,FALSE,Material,Pending
+7,Project 7,Substation,Kerala,Hilly,122,95,24,12,0.01,0.46,0.6,0.49,10,13.9,TRUE,Regulatory,Pending
+8,Project 8,Substation,Rajasthan,Coastal,128,97,23,18,0.91,0.66,0.75,0.39,17,13.2,FALSE,Terrain,Pending
+9,Project 9,Substation,Rajasthan,Plains,58,57,29,22,0.23,0.26,0.77,0.76,6,19.9,TRUE,Material,Pending
+10,Project 10,Overhead Line,Himachal,Hilly,174,80,37,20,0.63,0.31,0.56,0.19,21,18.8,FALSE,Terrain,Pending
+11,Project 11,Substation,Delhi,Coastal,157,98,36,24,0.93,0.51,0.77,0.07,11,11.5,FALSE,Weather,Pending
+12,Project 12,Overhead Line,Delhi,Plains,161,85,22,15,0.81,0.21,0.71,0.94,14,6.8,FALSE,Regulatory,Pending
+13,Project 13,Overhead Line,Kerala,Plains,94,38,23,13,0.61,0.83,0.69,0.57,21,12.9,FALSE,Vendor,Pending
+14,Project 14,Overhead Line,Delhi,Plains,100,88,48,24,0.47,0.55,0.51,0.67,8,15.5,FALSE,Terrain,Pending
+15,Project 15,Underground Cable,Himachal,Plains,62,42,22,19,0.07,0.57,0.79,0.68,16,8.4,FALSE,Regulatory,Pending
+16,Project 16,Substation,Himachal,Hilly,103,54,33,7,0.65,0.44,0.69,0.42,23,19.1,TRUE,Weather,Pending
+17,Project 17,Underground Cable,Maharashtra,Hilly,122,31,48,23,0.36,0.55,0.97,0.26,6,11,TRUE,Material,Pending
+18,Project 18,Overhead Line,Maharashtra,Coastal,167,48,34,17,0.91,0.21,0.95,0.64,9,11.6,TRUE,Vendor,Pending
+19,Project 19,Overhead Line,Kerala,Hilly,79,87,40,25,0.35,0.91,0.52,0.65,7,11.2,TRUE,Terrain,Pending
+20,Project 20,Underground Cable,Delhi,Hilly,114,92,47,24,0.42,0.79,0.61,0.87,23,6.9,TRUE,Material,Pending
